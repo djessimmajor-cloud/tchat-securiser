@@ -3,3 +3,6 @@ public/uploads/*
 !public/uploads/.gitkeep
 *.env
 .env*
+package-lock.json
+%USERPROFILE%/
+AppData/
